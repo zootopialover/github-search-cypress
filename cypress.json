@@ -1,0 +1,5 @@
+{
+	"env": {
+		"EXTERNAL_API": "http://localhost:3000"
+	}
+}
